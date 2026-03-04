@@ -28,4 +28,4 @@ phases:
 
 artifacts:
   files:
-    - target/nextwork-web-project.war
+    - target/Java-web-project.war
